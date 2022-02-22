@@ -6,9 +6,9 @@ Previews of wallpaper are [here](previews.md)
 
 ## Note
 
-The original wallpapers are downloaded from [wallpaperflare](https://www.wallpaperflare.com), so I don't own any rights to these wallpapers.
+I don't own any rights to these wallpapers.
 
-Resolution of images is 3840x2160
+Resolution of images is 3840x2160 (in some case original images are resized) 
 
 ## Sample
 
