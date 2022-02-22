@@ -8,7 +8,7 @@ Previews of wallpaper are [here](previews.md)
 
 I don't own any rights to these wallpapers.
 
-Resolution of images is 3840x2160 (in some case original images are resized) 
+Resolution of images is 3840x2160 (in some case original images was resized) 
 
 ## Sample
 
