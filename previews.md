@@ -6,7 +6,6 @@
 
 ![](wallpapers/HowlsMovingCastle/1.png)
 ![](wallpapers/HowlsMovingCastle/2.png)
-![](wallpapers/HowlsMovingCastle/3.png)
 
 # Kiki's Delivery Service
 
@@ -34,6 +33,7 @@
 # Spirited Away
 
 ![](wallpapers/SpiritedAway/1.png)
+![](wallpapers/SpiritedAway/2.png)
 
 # Tales from Earthsea
 
