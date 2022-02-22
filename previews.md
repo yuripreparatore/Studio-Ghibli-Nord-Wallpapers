@@ -6,6 +6,7 @@
 
 ![](wallpapers/HowlsMovingCastle/1.png)
 ![](wallpapers/HowlsMovingCastle/2.png)
+![](wallpapers/HowlsMovingCastle/3.png)
 
 # Kiki's Delivery Service
 
@@ -23,6 +24,7 @@
 # Porco Rosso
 
 ![](wallpapers/PorcoRosso/1.png)
+![](wallpapers/PorcoRosso/2.png)
 
 # Ponyo
 
