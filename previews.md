@@ -26,10 +26,6 @@
 ![](wallpapers/PorcoRosso/1.png)
 ![](wallpapers/PorcoRosso/2.png)
 
-# Ponyo
-
-![](wallpapers/Ponyo/1.png)
-
 # Princess Mononoke
 
 ![](wallpapers/PrincessMononoke/1.png)
